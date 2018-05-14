@@ -110,7 +110,7 @@
     "babelify": "^8.0.0",
     "babylon": "^6.16.1",
     "backoff": "^2.5.0",
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.18.3",
     "bowser": "^1.6.0",
     "browser-saveas": "^1.0.1",
     "browserify": "^15.2.0",
