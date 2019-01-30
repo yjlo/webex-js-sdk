@@ -166,7 +166,7 @@
     "grunt-cli": "~1.2.0",
     "grunt-env": "~0.4.2",
     "grunt-gh-pages": "^3.1.0",
-    "highlight.js": "^9.5.0",
+    "highlight.js": "^9.14.1",
     "html-webpack-plugin": "^3.2.0",
     "humanize-string": "^1.0.2",
     "husky": "^0.14.3",
