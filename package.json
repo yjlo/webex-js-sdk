@@ -204,7 +204,7 @@
     "node-kms": "^0.3.2",
     "node-scr": "^0.2.2",
     "on-finished": "^2.3.0",
-    "parse-headers": "^2.0.1",
+    "parse-headers": "^2.0.2",
     "pkg-up": "^2.0.0",
     "ps-node": "^0.1.6",
     "qs": "^6.5.1",
