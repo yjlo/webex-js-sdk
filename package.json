@@ -180,7 +180,7 @@
     "isparta": "^4.1.1",
     "istanbul": "^0.4.4",
     "javascript-state-machine": "^3.1.0",
-    "jsonwebtoken": "^8.0.1",
+    "jsonwebtoken": "^8.5.1",
     "jszip": "^3.1.5",
     "karma": "^2.0.0",
     "karma-browserify": "^5.1.3",
