@@ -150,7 +150,7 @@
     "dotenv": "^4.0.0",
     "envify": "^4.1.0",
     "errorhandler": "^1.5.0",
-    "es6-promise": "^4.2.4",
+    "es6-promise": "^4.2.7",
     "es6-promise-series": "^0.2.2",
     "eslint": "^5.16.0",
     "eslint-plugin-import": "^2.16.0",
