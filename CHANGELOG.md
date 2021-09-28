@@ -2,6 +2,210 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.143.1](https://github.com/webex/webex-js-sdk/compare/v1.143.0...v1.143.1) (2021-09-28)
+
+
+### Bug Fixes
+
+* **plugin-meetings:** fixed false firing of stop recording event ([ae72681](https://github.com/webex/webex-js-sdk/commit/ae72681e648378183d74191b630d344af8c67e3a))
+
+## [1.143.0](https://github.com/webex/webex-js-sdk/compare/v1.142.2...v1.143.0) (2021-09-28)
+
+
+### Features
+
+* **meetings:** invite participants via phone number ([8176577](https://github.com/webex/webex-js-sdk/commit/81765771108a3b11903792c22bafa3fc53c98169))
+
+### [1.142.2](https://github.com/webex/webex-js-sdk/compare/v1.142.1...v1.142.2) (2021-09-21)
+
+
+### Bug Fixes
+
+* **webex-core:** make waitForService check preauth catalog ([0c73da6](https://github.com/webex/webex-js-sdk/commit/0c73da66d2ffb3356fe8288e63b246c3314cf961))
+
+### [1.142.1](https://github.com/webex/webex-js-sdk/compare/v1.142.0...v1.142.1) (2021-09-21)
+
+
+### Bug Fixes
+
+* **ws:** update ws to latest ([2dc6ec9](https://github.com/webex/webex-js-sdk/commit/2dc6ec9d6d4a933ad76d2aacc1a19ceb87eb3d52))
+
+## [1.142.0](https://github.com/webex/webex-js-sdk/compare/v1.141.0...v1.142.0) (2021-09-16)
+
+
+### Features
+
+* **plugin-meetings:** events for media:negotiated  with experimental.enableMediaNegotatedEvent config ([c7e9f34](https://github.com/webex/webex-js-sdk/commit/c7e9f348362fda8af1612fd8f99759f32e755bb8))
+
+## [1.141.0](https://github.com/webex/webex-js-sdk/compare/v1.140.0...v1.141.0) (2021-09-14)
+
+
+### Features
+
+* **dial-in:** add ability to provision and remove dial in devices ([2a48cb8](https://github.com/webex/webex-js-sdk/commit/2a48cb8e60344c885c0189c851e6951ccebaf22c))
+
+## [1.140.0](https://github.com/webex/webex-js-sdk/compare/v1.139.0...v1.140.0) (2021-09-10)
+
+
+### Features
+
+* **internal-conversation:** allow space avatars to be uploaded ([553fdcc](https://github.com/webex/webex-js-sdk/commit/553fdcc7efdcf2595107fa474bd3a4f111fdcf5c))
+
+## [1.139.0](https://github.com/webex/webex-js-sdk/compare/v1.138.1...v1.139.0) (2021-09-10)
+
+
+### Features
+
+* **internal-plugin-ediscovery:** add transforms for public spaces ([9e951ee](https://github.com/webex/webex-js-sdk/commit/9e951ee6ba069bf812e2717e4c272688aa4ccd73))
+
+### [1.138.1](https://github.com/webex/webex-js-sdk/compare/v1.138.0...v1.138.1) (2021-09-09)
+
+
+### Bug Fixes
+
+* **webex-core:** add appName/appVersion to onRequest ([afeafba](https://github.com/webex/webex-js-sdk/commit/afeafba602ee2b9b12dda6c9f992281acf98b50a))
+
+## [1.138.0](https://github.com/webex/webex-js-sdk/compare/v1.137.2...v1.138.0) (2021-09-07)
+
+
+### Features
+
+* **metrics:** add metrics for join delay ([dbf8093](https://github.com/webex/webex-js-sdk/commit/dbf80933bc2d8232a8cf515077702ee5e1033ee8))
+
+### [1.137.2](https://github.com/webex/webex-js-sdk/compare/v1.137.1...v1.137.2) (2021-08-26)
+
+
+### Bug Fixes
+
+* **board:** fix unit tests ([cb329d6](https://github.com/webex/webex-js-sdk/commit/cb329d6a85a7739c35a86d8c638e89f86b4e1e21))
+
+### [1.137.1](https://github.com/webex/webex-js-sdk/compare/v1.137.0...v1.137.1) (2021-08-25)
+
+
+### Bug Fixes
+
+* **deps:** updated path-parse and moved to devDependencies ([fe54bc7](https://github.com/webex/webex-js-sdk/commit/fe54bc7891fbaa736752c9c72902f6feb23c63bb))
+
+## [1.137.0](https://github.com/webex/webex-js-sdk/compare/v1.136.0...v1.137.0) (2021-08-25)
+
+
+### Features
+
+* **internal-plugin-user:** generate and validate otp ([a582c34](https://github.com/webex/webex-js-sdk/commit/a582c34ae4bb1c81d1388d838df508aab9d8611e))
+
+## [1.136.0](https://github.com/webex/webex-js-sdk/compare/v1.135.2...v1.136.0) (2021-08-23)
+
+
+### Features
+
+* **internal-plugin-ediscovery:** spark_242146_decrypt_webUrl_appId_for_customApp_type ([ed26364](https://github.com/webex/webex-js-sdk/commit/ed263641190a8e7bc0a897a9d1d9c1933e769af9))
+* **internal-plugin-ediscovery:** spark_242146_decrypt_webUrl_appId_for_customApp_type ([6262827](https://github.com/webex/webex-js-sdk/commit/6262827923b5c4b1177a656679c6147d9f84cfe1))
+* **internal-plugin-ediscovery:** spark_242146_decrypt_webUrl_appId_for_customApp_type ([b0b0f81](https://github.com/webex/webex-js-sdk/commit/b0b0f8124fc17783336be2f9fb979db58be6d641))
+* **internal-plugin-ediscovery:** spark_242146_do_nothing ([7a6d682](https://github.com/webex/webex-js-sdk/commit/7a6d682b79a046e3e60dde957b29542a5cd9aefd))
+
+### [1.135.2](https://github.com/webex/webex-js-sdk/compare/v1.135.1...v1.135.2) (2021-08-18)
+
+
+### Bug Fixes
+
+* **deps:** added glob-parent to resolutions ([0193522](https://github.com/webex/webex-js-sdk/commit/0193522303bbc82d1334f9aeb890eca2660d11bb))
+
+### [1.135.1](https://github.com/webex/webex-js-sdk/compare/v1.135.0...v1.135.1) (2021-08-16)
+
+
+### Bug Fixes
+
+* **encryption:** setting onbehalfof to support an edge case ([0f49360](https://github.com/webex/webex-js-sdk/commit/0f49360cd677b00b99c8172f1d1c0b4a95c49557))
+* **internal-plugin-user:** for update name any one name is required ([0f70ebf](https://github.com/webex/webex-js-sdk/commit/0f70ebf34bef9d3c35926920ea46f945da59f2ee))
+* **meeting:** create new correlation ID every time ([5fa11ed](https://github.com/webex/webex-js-sdk/commit/5fa11ed2bbab634b53cb3173b220aec159255d94))
+
+## [1.135.0](https://github.com/webex/webex-js-sdk/compare/v1.134.1...v1.135.0) (2021-08-11)
+
+
+### Features
+
+* **meetings:** accept asResourceOccupant param ([54fbfe1](https://github.com/webex/webex-js-sdk/commit/54fbfe185e6fd66ff12daf4413817a4de8708e88))
+
+
+### Bug Fixes
+
+* **metrics:** add localNetworkPrefix to diagnostic ([4d3923c](https://github.com/webex/webex-js-sdk/commit/4d3923c7286eebb48b9e9ba31258e7281205dcb3))
+
+### [1.134.1](https://github.com/webex/webex-js-sdk/compare/v1.134.0...v1.134.1) (2021-08-09)
+
+
+### Bug Fixes
+
+* **plugin-meetings:** remove the listeners upon clean up of addMedia ([e7b0847](https://github.com/webex/webex-js-sdk/commit/e7b0847809bcc39f2b9e2b533e9456edcd1eaee1))
+
+## [1.134.0](https://github.com/webex/webex-js-sdk/compare/v1.133.1...v1.134.0) (2021-08-09)
+
+
+### Features
+
+* **samples:** add renderInfo call to multi-party ([1dcc5ab](https://github.com/webex/webex-js-sdk/commit/1dcc5ab6089a72ba53b99f4670f712fa6e0e445e))
+
+### [1.133.1](https://github.com/webex/webex-js-sdk/compare/v1.133.0...v1.133.1) (2021-08-03)
+
+
+### Bug Fixes
+
+* **deps:** updated [@babel](https://github.com/babel) plugins for browserslist ([41bebd8](https://github.com/webex/webex-js-sdk/commit/41bebd8088b2c294e65c83fade5af8dbb4f204e9))
+
+## [1.133.0](https://github.com/webex/webex-js-sdk/compare/v1.132.1...v1.133.0) (2021-07-30)
+
+
+### Features
+
+* **meetings:** add support for receiving transcripts ([e0966e5](https://github.com/webex/webex-js-sdk/commit/e0966e58f83e25e6d98ce32ed97a5d49264ed5d1))
+
+### [1.132.1](https://github.com/webex/webex-js-sdk/compare/v1.132.0...v1.132.1) (2021-07-29)
+
+
+### Bug Fixes
+
+* **internal-plugin-board:** use full channel URL in setSnapshotImage() ([f2e8d8e](https://github.com/webex/webex-js-sdk/commit/f2e8d8e4bf64a7ff9a00c061bd96ef27442f48ac))
+
+## [1.132.0](https://github.com/webex/webex-js-sdk/compare/v1.131.0...v1.132.0) (2021-07-29)
+
+
+### Features
+
+* **meetings:** add mediaConnections properties to call metrics ([bb5f60d](https://github.com/webex/webex-js-sdk/commit/bb5f60d453b4dacf8e1a00f12bf6b252e44de4ee))
+
+## [1.131.0](https://github.com/webex/webex-js-sdk/compare/v1.130.1...v1.131.0) (2021-07-28)
+
+
+### Features
+
+* **meetings:** added conditional to fix failed test ([35d5746](https://github.com/webex/webex-js-sdk/commit/35d574687414d92e81d4226baf2c1b1d0bcad522))
+* **meetings:** added delete Media Request function ([cbbc1f7](https://github.com/webex/webex-js-sdk/commit/cbbc1f7252156321f9fc811b9a45b32349725ba9))
+* **meetings:** added fix for addMedia issue pre media request ([3590aaa](https://github.com/webex/webex-js-sdk/commit/3590aaa728d6ec579a11cd5cdd306c8979c9b140))
+* **meetings:** changed to use preexisting func ([b575c4f](https://github.com/webex/webex-js-sdk/commit/b575c4f4b0d45b0d9667f2748aefd461df44875b))
+* **meetings:** cleaned up code and removed logs ([64e9b1b](https://github.com/webex/webex-js-sdk/commit/64e9b1bc1501b8d9ec9e2536075ddddf5073fe2a))
+* **meetings:** removed unused verb and function ([040b670](https://github.com/webex/webex-js-sdk/commit/040b670d2cff17d0abc0228f7c8238dddb90f104))
+
+### [1.130.1](https://github.com/webex/webex-js-sdk/compare/v1.130.0...v1.130.1) (2021-07-27)
+
+
+### Bug Fixes
+
+* **plugin-meetings:** fix media: ready not triggering issue with latest change ([b4c3f22](https://github.com/webex/webex-js-sdk/commit/b4c3f2219b200fe4394f84c02330d757a46accbc))
+
+## [1.130.0](https://github.com/webex/webex-js-sdk/compare/v1.129.0...v1.130.0) (2021-07-27)
+
+
+### Features
+
+* **meetings:** add locusUrl to getAnalyzerMetricsPrePayload ([51892b0](https://github.com/webex/webex-js-sdk/commit/51892b0579d465c02a77a0e958e6ce34b9a10ea0))
+
+## [1.129.0](https://github.com/webex/webex-js-sdk/compare/v1.128.1...v1.129.0) (2021-07-26)
+
+
+### Features
+
+* **meetings:** log media device settings on mute events ([26c4c2b](https://github.com/webex/webex-js-sdk/commit/26c4c2b0a9bbcfb3c63ab6a213489ca87f6ae554))
+
 ### [1.128.1](https://github.com/webex/webex-js-sdk/compare/v1.128.0...v1.128.1) (2021-07-26)
 
 
