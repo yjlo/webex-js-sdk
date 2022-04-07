@@ -150,7 +150,7 @@
     "node-random-name": "^1.0.1",
     "node-scr": "^0.3.0",
     "on-finished": "^2.3.0",
-    "parse-headers": "^2.0.2",
+    "parse-headers": "^2.0.5",
     "patch-package": "^6.2.2",
     "pkijs": "^2.1.84",
     "ps-node": "^0.1.6",
