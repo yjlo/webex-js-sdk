@@ -187,7 +187,7 @@
     "@wdio/local-runner": "^7.19.5",
     "@wdio/mocha-framework": "^7.19.5",
     "@wdio/sauce-service": "^7.19.5",
-    "@wdio/spec-reporter": "^7.19.5",
+    "@wdio/spec-reporter": "^7.25.4",
     "@wdio/static-server-service": "^7.19.5",
     "appium-adb": "^8.17.0",
     "babel-plugin-module-resolver": "^4.1.0",
